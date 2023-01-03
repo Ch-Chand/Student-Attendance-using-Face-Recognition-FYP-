@@ -42,3 +42,11 @@ As a result, we are going to merge both of these aspects, and the end result wil
 - Storing of details of a person in a training dataset
 - Testing of the faces with the trained image
 - Automatic modifications in the files without any other persons.
+
+# Conclusion
+The construction of a facial recognition system for recording attendance was intended to be the focus of this project. The primary objective that I wanted to accomplish with this project was to design and develop a very quick, straightforward, and lightweight application that would be able to record attendance based on face recognition in real time. And because of these qualities, I decided to go with Tkinter as my GUI framework because it is very lightweight and easy to work with. 
+
+The ideas of facial recognition and LBPH are dissected in great detail during the course of this thesis. In a similar manner, application development with Tkinter is also covered, and this is then followed by explanations and examples of its implementation. As a consequence of the project, a functional prototype of a facial recognition system was created. This system allows the administrator to add students along with information about them to the database. After then, teachers are able to log in to the system and record the student's attendance there. A camera analyses the student's face to determine their identity before entering their attendance into a database. The attendance data of the pupils was available to both the teaching staff and the administration. 
+
+In general, the project was effective in displaying how LBPH can be implemented in Tkinter to develop a desktop application. This was one of the primary goals of the project. After it has been put into place, it can be utilised to take attendance of students and to preserve a record of each student's attendance. This project has the potential to be developed further in the future by adding more features that are geared at both teachers and students. There is potential for the addition of more features, such as assignments, outcomes, and grades.
+
