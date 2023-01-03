@@ -1,2 +1,6 @@
-# Final-Year-Project (Computer Vision)
- This project is in Computer Vision where I am automating a real world task. The task is Attendance and I am automating it using Deep Learning and Computer Vision.
+# Student Attendance using Face Recognition (FYP)
+
+This project will attempt to provide a solution to the problem of traditional student attendance systems being time-consuming, inaccurate, and difficult to implement.
+Over the past decade, facial recognition systems have become increasingly popular and the focus of many industries. Face recognition is utilized by law enforcement agencies to make communities safer. Crime and violence are prevented by retailers. Airports are enhancing the convenience and safety of travelers. In addition, mobile phone companies use face recognition to provide consumers with additional biometric security layers.
+
+This project proposes an alternative application of face recognition systems. Using some Computer Vision algorithms, an attempt will be made to create a face recognition system for student attendance management. Using the camera on laptops, a data set of maximum 200 images for each student will be created, and the system will be trained using these images. For the face detection I used HAAR Cascading and extracted face features and then for face recognition I will be using Local binary patterns histograms (LBPH). This system will be integrated into a Graphical User Interface (GUI) made by using Tkinter framework and will make it workable using GUI.
